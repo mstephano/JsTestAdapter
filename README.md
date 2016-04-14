@@ -1,3 +1,5 @@
+# This version is to fix the failed Jasmine unit test under "Not Run Tests"
+
 # JsTestAdapter
 
 A base library to create Visual Studio test explorer adapters for javascript.
